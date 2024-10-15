@@ -1,0 +1,4 @@
+repository "Chess3D@unity_BFE6B52164FAD5081350@cloud"
+  path "/"
+    br "/main"
+    co "/main"
